@@ -1,3 +1,0 @@
-Autocomplete
-Empty State
-Search with cool animation
